@@ -1,0 +1,119 @@
+body
+{
+	font-family: Sans-Serif;
+	color: #eeeeee;
+	background-color: #111111;
+}
+
+body.center
+{
+	text-align: center;
+}
+
+#header
+{
+	width: 100%;
+	margin: auto;
+}
+
+img.center
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img.quarterWidth {
+    width: 25%;
+}
+
+img.halfWidth {
+	width: 50%;
+}
+
+img.centerHalfWidth {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+h1 {
+	font-size: 400%;
+}
+
+h1.title {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+h2 {
+	font-size: 300%;
+}
+
+h3 {
+	font-size: 200%;
+}
+
+h4 {
+	font-size: 150%;
+}
+
+h5 {
+	font-size: 70%;
+}
+
+h5.caption {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+#headerLogo
+{
+	width: 50%;
+}
+
+p.blocktext
+{
+	margin-top: 1em;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+#menu
+{
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#news
+{
+	display: block;
+	width: 66%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#screenshot
+{
+	padding: 0.5em;
+	width: 90%;
+}
+
+iframe
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align-center;
+}
+
+iframe.borderless
+{
+	border: 0;
+}
